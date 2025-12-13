@@ -1,16 +1,32 @@
-## Hi there 👋
+## Hi, I’m Sricharan 👋
+🎓 Engineering student at Vasavi College of Engineering, Hyderabad | Aspiring Software Engineer
+---
+## 💻 What I’m learning & building
+- Strengthening fundamentals through **projects and practice**
+- Exploring **problem-solving and system thinking**
 
-<!--
-**sricharan-213/sricharan-213** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🛠 Skills
+- **Languages:** C, Java, Python  
+- **Core Concepts:**  
+  - Object-Oriented Programming  
+  - Data Structures & Algorithms  
+- **Tools:** Git, GitHub, VS Code  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🎯 Current Focus
+Building a strong foundation in **Java + DSA**,  
+and writing code that is **clear, structured, and reliable**.
+
+---
+
+### 📌 Projects
+- **Adaptive Quiz System (Java)**  
+  *(learning-focused project with analytics & performance tracking)*
+
+---
+
+> Still learning. Still improving.
+
