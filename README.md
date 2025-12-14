@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sricharan Kyasa</h1>
 <h3 align="center">🎓IT undergraduate at Vasavi College of Engineering, Hyderabad |Learning by building & solving</h3>
-
  
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sricharan-213" alt="sricharan-213" /></a> </p>
 
 - 🔭 I’m currently working on [Building a strong foundation in Java + DSA Project: Adaptive Quiz System (Java)](https://github.com/sricharan-213/AdaptiveQuizProject)
 
@@ -27,6 +24,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sricharan-213&show_icons=true&locale=en" alt="sricharan-213" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sricharan-213&" alt="sricharan-213" /></p>
+ 
 
 > Still learning. Still improving.
