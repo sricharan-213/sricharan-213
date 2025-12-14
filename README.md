@@ -1,23 +1,32 @@
-## Hi, I’m Sricharan 👋
-🎓IT undergraduate at Vasavi College of Engineering, Hyderabad |Learning by building & solving
----
-## 💻 What I’m learning & building
-- Strengthening fundamentals through **projects and practice**
-- Exploring **problem-solving and system thinking**
----
-### 🛠 Skills
-- **Languages:** C, Java, Python  
-- **Core Concepts:**  
-  - Object-Oriented Programming  
-  - Data Structures & Algorithms  
-- **Tools:** Git, GitHub, VS Code  
----
-### 🎯 Current Focus
-Building a strong foundation in **Java + DSA**,  
-and writing code that is **clear, structured, and reliable**.
----
-### 📌 Projects
-- **Adaptive Quiz System (Java)**  
-  *(learning-focused project with analytics & performance tracking)*
----
+<h1 align="center">Hi 👋, I'm Sricharan Kyasa</h1>
+<h3 align="center">🎓IT undergraduate at Vasavi College of Engineering, Hyderabad |Learning by building & solving</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sricharan-213&label=Profile%20views&color=0e75b6&style=flat" alt="sricharan-213" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sricharan-213" alt="sricharan-213" /></a> </p>
+
+- 🔭 I’m currently working on [Building a strong foundation in Java + DSA Project: Adaptive Quiz System (Java)](https://github.com/sricharan-213/AdaptiveQuizProject)
+
+- 🌱 I’m currently learning **Strengthening fundamentals through projects and practice Exploring problem-solving and system thinking**
+
+- 👯 I’m looking to collaborate on **small open-source and learning projects**
+
+- 💬 Ask me about **C, Python, Java basics, problem solving, and my learning journey in programming**
+
+- 📫 How to reach me **kyasasricharan2005@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.leetcode.com/https://leetcode.com/u/sricharan_kyasa/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/sricharan_kyasa/" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sricharan-213&show_icons=true&locale=en&layout=compact" alt="sricharan-213" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sricharan-213&show_icons=true&locale=en" alt="sricharan-213" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sricharan-213&" alt="sricharan-213" /></p>
+
 > Still learning. Still improving.
