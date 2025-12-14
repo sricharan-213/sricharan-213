@@ -1,5 +1,5 @@
 ## Hi, I’m Sricharan 👋
-🎓 Engineering student at Vasavi College of Engineering, Hyderabad | Aspiring Software Engineer
+🎓IT undergraduate at Vasavi College of Engineering, Hyderabad |Learning by building & solving
 ---
 ## 💻 What I’m learning & building
 - Strengthening fundamentals through **projects and practice**
