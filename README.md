@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **C, Python, Java basics, problem solving, and my learning journey in programming**
 
-- 📫 How to reach me **kyasasricharan2005@gmail.com**
+- 📫 How to reach me **sricharankyasa@gmail.com**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://leetcode.com/u/sricharan_kyasa/" target="blank">
