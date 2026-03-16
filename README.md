@@ -1,32 +1,110 @@
 <h1 align="center">Hi 👋, I'm Sricharan Kyasa</h1>
-<h3 align="center">🎓IT undergraduate at Vasavi College of Engineering, Hyderabad |Learning by building & solving</h3>
- 
 
-- 🔭 I’m currently working on [Building a strong foundation in Java + DSA Project: Adaptive Quiz System (Java)](https://github.com/sricharan-213/AdaptiveQuizProject)
+<h3 align="center">
+IT Undergraduate at Vasavi College of Engineering, Hyderabad  
+Learning programming by building projects and solving problems
+</h3>
 
-- 🌱 I’m currently learning **Strengthening fundamentals through projects and practice Exploring problem-solving and system thinking**
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?lines=IT+Student+%7C+Aspiring+Developer;Learning+DSA+and+Problem+Solving;Building+Projects+to+Learn;Future+Software+Engineer&center=true&width=500&height=45">
+</p>
 
-- 👯 I’m looking to collaborate on **small open-source and learning projects**
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=sricharan-213&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+</p>
 
-- 💬 Ask me about **C, Python, Java basics, problem solving, and my learning journey in programming**
+---
 
-- 📫 How to reach me **sricharankyasa@gmail.com**
-<h3 align="left">Connect with me:</h3>
+## 👨‍💻 About Me
+
+- 🎓 IT undergraduate at Vasavi College of Engineering
+- 💡 Interested in problem solving, software systems, and real-world applications
+- 🚀 Currently learning **DAA, Full Stack Development, and DBMS**
+- 🛠 Building projects to understand systems practically
+- 🤝 Open to collaborating on **learning projects and open-source**
+- 📫 Reach me at **sricharankyasa@gmail.com**
+
+---
+
+## 🚧 Current Projects
+
+### 🧠 Aptitude Practice Platform
+A platform similar to **LeetCode**, but focused on **aptitude questions instead of coding problems**.
+
+Features planned:
+
+- Question practice system
+- Difficulty levels
+- Score tracking
+- Progress analysis
+- Clean UI for learning aptitude efficiently
+
+---
+
+### 🚌 College Bus Tracking App (Flutter)
+
+A **Flutter mobile application** designed for our college to help students track buses.
+
+Features:
+
+- Live bus location
+- Bus routes
+- Estimated arrival time
+- Simple UI for students
+
+---
+
+## 🌱 Currently Learning
+
+- **Design and Analysis of Algorithms (DAA)**  
+- **Full Stack Web Development**  
+- **Database Management Systems (DBMS)** 
+- **Problem Solving**  
+- **Building Projects**  
+
+---
+
+## 🔗 Connect with me
+
 <p align="left">
+
 <a href="https://leetcode.com/u/sricharan_kyasa/" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40" />
+</a>
+
+<a href="https://www.codechef.com/users/sricharan213" target="blank">
+<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codechef.svg" height="30" width="40" />
 </a>
 
 <a href="https://www.linkedin.com/in/sricharankyasa/" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
 </a>
+
+<a href="https://github.com/sricharan-213" target="blank">
+<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" height="30" width="40" />
+</a>
+
 </p>
 
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+## 🛠️ Languages and Tools
+
+<p align="left">
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
+
+</p>
+
  
 
- 
+## ✨ Philosophy
 
-> Still learning. Still improving.
+> Learning every day by building and solving problems.
+
+Still learning. Still building. Still improving.
