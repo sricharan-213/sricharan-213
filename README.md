@@ -27,13 +27,38 @@ IT undergraduate focused on building practical software — from web platforms t
 
 ---
 
-## Tech Stack
+ ## 🛠️ Tech Stack
 
-**Languages** · C · Java · Python · JavaScript  
-**Web** · HTML · CSS · JS  
-**Mobile** · Flutter  
-**Learning** · DAA · DBMS · Full Stack Dev
+**Languages**
 
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40" title="C"/> &nbsp;C &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40" title="Java"/> &nbsp;Java &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" title="Python"/> &nbsp;Python &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" title="JavaScript"/> &nbsp;JavaScript
+</p>
+
+**Web**
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40" title="HTML5"/> &nbsp;HTML &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40" title="CSS3"/> &nbsp;CSS &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" title="JavaScript"/> &nbsp;JavaScript
+</p>
+
+**Mobile**
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" width="40" height="40" title="Flutter"/> &nbsp;Flutter
+</p>
+
+**Currently Learning**
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" title="DBMS"/> &nbsp;DBMS &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40" title="Full Stack"/> &nbsp;Full Stack Dev &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" height="40" title="Node.js"/> &nbsp;Node.js
+</p>
 ---
 
 ## Connect
