@@ -22,7 +22,8 @@ IT undergraduate focused on building practical software — from web platforms t
 
 | Project | Stack | Description |
 |---|---|---|
-| **AptiCode** | Web (Full Stack) | LeetCode-style platform for aptitude questions — difficulty levels, score tracking, progress analytics |
+| **AptiCode** | Web (Full Stack) | LeetCode-style platform for aptitude questions — difficulty levels, score tracking, progress analytics 
+click here:https://apti-code.vercel.app/|
 | **College Bus Tracker** | Flutter | Real-time bus tracking app for students — live location, routes, ETA |
 
 ---
