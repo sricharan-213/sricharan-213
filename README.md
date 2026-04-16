@@ -3,11 +3,11 @@
 <h3 align="center">IT Undergraduate · Vasavi College of Engineering, Hyderabad</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&width=600&lines=Building+Real+Systems+from+Scratch;Full+Stack+%7C+DSA+%7C+Mobile+Dev;Turning+Ideas+into+Working+Software;Open+to+Collaborate+%26+Learn" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&width=600&lines=Building+Real+Systems+from+Scratch;Full+Stack+%7C+DSA+%7C+Mobile+Dev;Turning+Ideas+into+Working+Software;Open+to+Collaborate+%26+Learn" />
 </p>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=sricharan-213&label=Profile+Views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=sricharan-213&label=Profile+Views&color=0e75b6&style=flat" />
 </p>
 
 ---
@@ -22,55 +22,116 @@ IT undergraduate focused on building practical software — from web platforms t
 
 | Project | Stack | Description |
 |---|---|---|
-| **AptiCode** | Web (Full Stack) | LeetCode-style platform for aptitude questions — difficulty levels, score tracking, progress analytics ; Click here: https://apti-code.vercel.app/|
+| **AptiCode** | Web (Full Stack) | LeetCode-style platform for aptitude questions — difficulty levels, score tracking, progress analytics. [Click here](https://apti-code.vercel.app/) |
 | **College Bus Tracker** | Flutter | Real-time bus tracking app for students — live location, routes, ETA |
 
 ---
 
- ## 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
-**Languages**
+### Languages
 
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40" title="C"/> &nbsp;C &nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40" title="Java"/> &nbsp;Java &nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" title="Python"/> &nbsp;Python &nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" title="JavaScript"/> &nbsp;JavaScript
-</p>
+<table>
+  <tr>
+    <td align="center" width="120">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="48" height="48" alt="C" /><br>
+      <b>C</b>
+    </td>
+    <td align="center" width="120">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="48" height="48" alt="Java" /><br>
+      <b>Java</b>
+    </td>
+    <td align="center" width="120">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="48" height="48" alt="Python" /><br>
+      <b>Python</b>
+    </td>
+    <td align="center" width="120">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript" /><br>
+      <b>JavaScript</b>
+    </td>
+  </tr>
+</table>
 
-**Web**
+### Web
 
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40" title="HTML5"/> &nbsp;HTML &nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40" title="CSS3"/> &nbsp;CSS &nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" title="JavaScript"/> &nbsp;JavaScript
-</p>
+<table>
+  <tr>
+    <td align="center" width="120">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="48" height="48" alt="HTML" /><br>
+      <b>HTML</b>
+    </td>
+    <td align="center" width="120">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="48" height="48" alt="CSS" /><br>
+      <b>CSS</b>
+    </td>
+    <td align="center" width="120">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript" /><br>
+      <b>JavaScript</b>
+    </td>
+  </tr>
+</table>
 
-**Mobile**
+### Mobile
 
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" width="40" height="40" title="Flutter"/> &nbsp;Flutter
-</p>
+<table>
+  <tr>
+    <td align="center" width="120">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" width="48" height="48" alt="Flutter" /><br>
+      <b>Flutter</b>
+    </td>
+  </tr>
+</table>
 
-**Currently Learning**
+### Currently Learning
 
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" title="DBMS"/> &nbsp;DBMS &nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40" title="Full Stack"/> &nbsp;Full Stack Dev &nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" height="40" title="Node.js"/> &nbsp;Node.js
-</p>
+<table>
+  <tr>
+    <td align="center" width="120">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="48" height="48" alt="DBMS" /><br>
+      <b>DBMS</b>
+    </td>
+    <td align="center" width="120">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="48" height="48" alt="React" /><br>
+      <b>React</b>
+    </td>
+    <td align="center" width="120">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="48" height="48" alt="Node.js" /><br>
+      <b>Node.js</b>
+    </td>
+  </tr>
+</table>
+
 ---
 
 ## Connect
 
-<p align="left">
-<a href="https://www.linkedin.com/in/sricharankyasa/"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="25" width="35"/></a>
-<a href="https://github.com/sricharan-213"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" height="25" width="35"/></a>
-<a href="https://leetcode.com/u/sricharan_kyasa/"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="25" width="35"/></a>
-<a href="https://www.codechef.com/users/sricharan213"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codechef.svg" height="25" width="35"/></a>
-</p>
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://www.linkedin.com/in/sricharankyasa/">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" alt="LinkedIn" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/sricharan-213">
+        <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" height="30" width="40" alt="GitHub" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://leetcode.com/u/sricharan_kyasa/">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40" alt="LeetCode" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.codechef.com/users/sricharan213">
+        <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codechef.svg" height="30" width="40" alt="CodeChef" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 📩 sricharankyasa@gmail.com
+ 
 
 ---
 
