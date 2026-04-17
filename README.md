@@ -24,6 +24,7 @@ IT undergraduate focused on building practical software — from web platforms t
 |---|---|---|
 | **AptiCode** | Web (Full Stack) | LeetCode-style platform for aptitude questions — difficulty levels, score tracking, progress analytics. [Click here](https://apti-code.vercel.app/) |
 | **College Bus Tracker** | Flutter | Real-time bus tracking app for students — live location, routes, ETA |
+| **Attendance Predictor** | Python | Console-based tool to predict future attendance, simulate attend/bunk scenarios, and plan for 75% threshold with smart insights |
 
 ---
 
@@ -131,7 +132,6 @@ IT undergraduate focused on building practical software — from web platforms t
 </table>
 
 📩 sricharankyasa@gmail.com
- 
 
 ---
 
